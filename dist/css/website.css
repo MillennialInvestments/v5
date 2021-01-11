@@ -87,6 +87,7 @@ select.form-control, .select2-container--default select.select2-selection--singl
     height: 150px;
     margin: 0 auto;
 }
+.card {background-color: transparent}
 .cid-s8gcO65Ei9 {
     padding-top: 25px;
     padding-bottom: 25px;
