@@ -714,7 +714,7 @@ select.form-control, .select2-container--default select.select2-selection--singl
 /*
  * FORM ELEMENTS 
  */
- .form-control, .form-control:focus{color:#195d64;}
+ .form-control, .form-control:focus{color:#003bff;}
 /*
  * CARD ELEMENTS 
  */
@@ -731,7 +731,7 @@ select.form-control, .select2-container--default select.select2-selection--singl
 }  
 .badge-primary {
     color: #fff;
-    background-color: #195d64 !important;
+    background-color: #003bff !important;
 }
 a.badge-primary:hover, a.badge-primary:focus {
     color: grey;
@@ -740,16 +740,16 @@ a.badge-primary:hover, a.badge-primary:focus {
 .list-group-item.active {
     z-index: 2;
     color: #fff;
-    background-color: #195d64;
-    border-color: #195d64;
+    background-color: #003bff;
+    border-color: #003bff;
 }
 .blog-image{width:90%; margin-left: 5%;}
 .navbar-inner{width: 100%;}
 
-.sidebar .nav .nav-item.nav-category .nav-link{color:#195d64}
+.sidebar .nav .nav-item.nav-category .nav-link{color:#003bff}
 
 .quick-action-toolbar .card .card-header {
-	background-image: linear-gradient(to left, #195d64, #4d8b91);
+	background-image: linear-gradient(to left, #003bff, #4d8b91);
 }
 
 .btn-primary{
